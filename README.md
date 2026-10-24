@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffc8dd,50:ffe5ec,100:bde0fe&height=170&section=header&text=R_H&fontSize=64&fontColor=ff7aa2&fontAlignY=45&animation=fadeIn" alt="header" />
 
-<img src="assets/bunny.svg" width="150" alt="bunny" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1500&color=F78FB3&center=true&vCenter=true&width=600&height=40&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+R_H%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;Hello%2C+I'm+R_H+%F0%9F%91%8B;%EC%B2%9C%EC%B2%9C%ED%9E%88%2C+%EA%BE%B8%EC%A4%80%ED%9E%88+%F0%9F%8C%B1;Slowly+but+steadily+%F0%9F%8C%B1" alt="typing" />
 
 <br/>
