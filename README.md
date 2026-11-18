@@ -17,15 +17,34 @@
 
 ---
 
+
 ### 01. Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,ts,python,html,git&theme=dark" alt="Tech Stack" />
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=java,spring,python&theme=dark" alt="Backend" />
+
+<br><br>
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark" alt="Frontend" />
+
+<br><br>
+
+**Database**
+
+<img src="https://skillicons.dev/icons?i=mysql,redis&theme=dark" alt="Database" />
+
+<br><br>
+
+**Tools & Infrastructure**
+
+<img src="https://skillicons.dev/icons?i=git,github,aws&theme=dark" alt="Tools and Infrastructure" />
 
 </div>
-
-<br>
 
 ### 02. GitHub Activity
 
