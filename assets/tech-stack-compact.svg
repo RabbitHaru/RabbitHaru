@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="338" viewBox="0 0 960 338" role="img" aria-labelledby="title desc">
+<title id="title">R_H Tech Stack</title>
+<desc id="desc">Backend: Java, Spring, Python. Frontend: HTML, CSS, JavaScript, TypeScript, React. Database: MySQL, MariaDB, Oracle, Redis. Tools and Infrastructure: Git, GitHub, AWS.</desc>
+<rect width="960" height="338" fill="#0d1117"/>
+<rect x="15" y="10" width="456" height="150" rx="15" fill="#161b22" stroke="#323942" stroke-width="1.5"/>
+<rect x="33" y="32" width="3" height="18" rx="1.5" fill="#e6a1bb"/>
+<text x="47" y="46" fill="#F0F3F7" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="17" letter-spacing="1">BACKEND</text>
+<path d="M 33 62 H 453" stroke="#303841" stroke-width="1"/>
+<rect x="33" y="77" width="68.2" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="47" cy="92" r="4" fill="#B58A63"/>
+<text x="59" y="97" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Java</text>
+<rect x="108.2" y="77" width="84.8" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="122.2" cy="92" r="4" fill="#6DAE65"/>
+<text x="134.2" y="97" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Spring</text>
+<rect x="200.0" y="77" width="84.8" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="214.0" cy="92" r="4" fill="#78A8CC"/>
+<text x="226.0" y="97" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Python</text>
+<rect x="489" y="10" width="456" height="150" rx="15" fill="#161b22" stroke="#323942" stroke-width="1.5"/>
+<rect x="507" y="32" width="3" height="18" rx="1.5" fill="#e6a1bb"/>
+<text x="521" y="46" fill="#F0F3F7" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="17" letter-spacing="1">FRONTEND</text>
+<path d="M 507 62 H 927" stroke="#303841" stroke-width="1"/>
+<rect x="507" y="77" width="76.5" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="521" cy="92" r="4" fill="#D98A6C"/>
+<text x="533" y="97" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">HTML5</text>
+<rect x="590.5" y="77" width="68.2" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="604.5" cy="92" r="4" fill="#7BA2D1"/>
+<text x="616.5" y="97" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">CSS3</text>
+<rect x="665.7" y="77" width="118.0" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="679.7" cy="92" r="4" fill="#D6BB64"/>
+<text x="691.7" y="97" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">JavaScript</text>
+<rect x="790.7" y="77" width="118.0" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="804.7" cy="92" r="4" fill="#6B9DD3"/>
+<text x="816.7" y="97" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">TypeScript</text>
+<rect x="507" y="117" width="76.5" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="521" cy="132" r="4" fill="#71B7C7"/>
+<text x="533" y="137" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">React</text>
+<rect x="15" y="171" width="456" height="150" rx="15" fill="#161b22" stroke="#323942" stroke-width="1.5"/>
+<rect x="33" y="193" width="3" height="18" rx="1.5" fill="#e6a1bb"/>
+<text x="47" y="207" fill="#F0F3F7" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="17" letter-spacing="1">DATABASE</text>
+<path d="M 33 223 H 453" stroke="#303841" stroke-width="1"/>
+<rect x="33" y="238" width="76.5" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="47" cy="253" r="4" fill="#6E9EBA"/>
+<text x="59" y="258" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">MySQL</text>
+<rect x="116.5" y="238" width="93.1" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="130.5" cy="253" r="4" fill="#AC9182"/>
+<text x="142.5" y="258" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">MariaDB</text>
+<rect x="216.60000000000002" y="238" width="84.8" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="230.60000000000002" cy="253" r="4" fill="#BF7777"/>
+<text x="242.60000000000002" y="258" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Oracle</text>
+<rect x="308.40000000000003" y="238" width="76.5" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="322.40000000000003" cy="253" r="4" fill="#BA7474"/>
+<text x="334.40000000000003" y="258" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Redis</text>
+<rect x="489" y="171" width="456" height="150" rx="15" fill="#161b22" stroke="#323942" stroke-width="1.5"/>
+<rect x="507" y="193" width="3" height="18" rx="1.5" fill="#e6a1bb"/>
+<text x="521" y="207" fill="#F0F3F7" font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="17" letter-spacing="1">TOOLS / INFRA</text>
+<path d="M 507 223 H 927" stroke="#303841" stroke-width="1"/>
+<rect x="507" y="238" width="59.9" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="521" cy="253" r="4" fill="#DB8F72"/>
+<text x="533" y="258" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">Git</text>
+<rect x="573.9" y="238" width="84.8" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="587.9" cy="253" r="4" fill="#B4BCC9"/>
+<text x="599.9" y="258" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">GitHub</text>
+<rect x="665.7" y="238" width="59.9" height="30" rx="7" fill="#252C36" stroke="#39414C" stroke-width="0.6"/>
+<circle cx="679.7" cy="253" r="4" fill="#D5A76B"/>
+<text x="691.7" y="258" fill="#DEE3EB" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="500">AWS</text>
+</svg>
