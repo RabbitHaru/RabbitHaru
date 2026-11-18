@@ -1,36 +1,48 @@
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:ffc8dd,50:ffe5ec,100:bde0fe&height=170&section=header&text=R_H&fontSize=64&fontColor=ff7aa2&fontAlignY=45&animation=fadeIn" alt="header" />
+<sub>R A B B I T H A R U</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1500&color=F78FB3&center=true&vCenter=true&width=600&height=40&lines=%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+R_H%EC%9E%85%EB%8B%88%EB%8B%A4+%F0%9F%91%8B;Hello%2C+I'm+R_H+%F0%9F%91%8B;%EC%B2%9C%EC%B2%9C%ED%9E%88%2C+%EA%BE%B8%EC%A4%80%ED%9E%88+%F0%9F%8C%B1;Slowly+but+steadily+%F0%9F%8C%B1" alt="typing" />
+# Hello, I'm R_H ♡
 
-<br/>
+**Software Developer** · Web Development
 
-<sub>♡ &nbsp; ○ &nbsp; ♡ &nbsp; ○ &nbsp; ♡</sub>
+`Code` · `Games` · `VRC`
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1500&color=F4A9C5&center=true&vCenter=true&width=440&height=35&lines=Welcome+to+my+GitHub;Hello%2C+world!" alt="Typing SVG" />
 
-만드는 걸 좋아하고, 배우는 걸 멈추지 않으려는 개발자예요. 🐰<br/>
-<sub>A developer who loves building things and never wants to stop learning.</sub>
+</div>
 
-<br/>
+---
 
-🌸 &nbsp;**R_H** &nbsp;·&nbsp; RabbitHaru<br/>
-🛠️ &nbsp;필요한 건 직접 만들어 보는 편 &nbsp;/&nbsp; <sub>I build what I need</sub><br/>
-🎮 &nbsp;VRC를 좋아해요 &nbsp;/&nbsp; <sub>I like VRC</sub>
+### ♡ Tech Stack
 
-<br/>
+<p>
+  <img src="https://img.shields.io/badge/Java-21262D?style=flat-square&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032" />
+</p>
 
-<sub>♡ &nbsp; ○ &nbsp; ♡ &nbsp; ○ &nbsp; ♡</sub>
+### ♡ GitHub Stats
 
-<br/><br/>
+<div align="center">
 
-<img src="https://img.shields.io/badge/Java-ffb3c6?style=flat&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-a2d2ff?style=flat&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-bde0fe?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-ffc8dd?style=flat&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/Git-cdb4db?style=flat&logo=git&logoColor=white" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RabbitHaru&layout=compact&hide_border=true&bg_color=0D1117&title_color=F4A9C5&text_color=C9D1D9&langs_count=6" alt="Top Languages" />
 
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bde0fe,50:ffe5ec,100:ffc8dd&height=80&section=footer" alt="footer" />
+</div>
+
+### ♡ Repositories
+
+- [projectWeatherly](https://github.com/RabbitHaru/projectWeatherly)
+- [Ex-Ledger](https://github.com/RabbitHaru/Ex-Ledger)
+- [projectRBook](https://github.com/RabbitHaru/projectRBook)
+
+---
+
+<div align="center">
+
+<sub>R_H · RabbitHaru ♡</sub>
 
 </div>
