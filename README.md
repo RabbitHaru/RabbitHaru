@@ -1,15 +1,17 @@
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=115&text=R_H&fontSize=65&fontColor=F4A9C5&fontAlignY=55&animation=fadeIn" alt="R_H" />
+
 <sub>R A B B I T H A R U</sub>
 
-# Hello, I'm R_H ♡
+### Hello, I'm R_H ♡
 
-**Software Developer** · Web Development
+**Software Developer** &nbsp;·&nbsp; Web Development
 
-`Code` · `Games` · `VRC`
+<code>Code</code> &nbsp;·&nbsp; <code>Games</code> &nbsp;·&nbsp; <code>VRC</code>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1500&color=F4A9C5&center=true&vCenter=true&width=440&height=35&lines=Welcome+to+my+GitHub;Hello%2C+world!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=3500&pause=1500&color=F4A9C5&center=true&vCenter=true&width=440&height=35&lines=Welcome+to+my+GitHub;Hello%2C+world!" alt="Typing animation" />
 
 </div>
 
@@ -17,15 +19,15 @@
 
 ### ♡ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Java-21262D?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-21262D?style=flat-square&logo=typescript&logoColor=3178C6" />
-  <img src="https://img.shields.io/badge/Python-21262D?style=flat-square&logo=python&logoColor=3776AB" />
-  <img src="https://img.shields.io/badge/HTML5-21262D?style=flat-square&logo=html5&logoColor=E34F26" />
-  <img src="https://img.shields.io/badge/Git-21262D?style=flat-square&logo=git&logoColor=F05032" />
-</p>
+<div align="center">
 
-### ♡ GitHub Stats
+<img src="https://skillicons.dev/icons?i=java,ts,python,html,git&theme=dark" alt="Tech Stack" />
+
+</div>
+
+<br>
+
+### ♡ GitHub Activity
 
 <div align="center">
 
@@ -33,16 +35,40 @@
 
 </div>
 
-### ♡ Repositories
+<br>
 
-- [projectWeatherly](https://github.com/RabbitHaru/projectWeatherly)
-- [Ex-Ledger](https://github.com/RabbitHaru/Ex-Ledger)
-- [projectRBook](https://github.com/RabbitHaru/projectRBook)
+### ♡ Featured Projects
+
+<div align="center">
+<table>
+<tr>
+<td align="center" width="50%">
+
+<a href="https://github.com/RabbitHaru/projectWeatherly">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabbitHaru&repo=projectWeatherly&theme=github_dark&hide_border=true&title_color=F4A9C5" alt="projectWeatherly" />
+</a>
+
+</td>
+<td align="center" width="50%">
+
+<a href="https://github.com/RabbitHaru/Ex-Ledger">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabbitHaru&repo=Ex-Ledger&theme=github_dark&hide_border=true&title_color=F4A9C5" alt="Ex-Ledger" />
+</a>
+
+</td>
+</tr>
+</table>
+
+<a href="https://github.com/RabbitHaru?tab=repositories">
+  <img src="https://img.shields.io/badge/View_All_Repositories-21262D?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
-<sub>R_H · RabbitHaru ♡</sub>
+<sub>R_H &nbsp; ♡ &nbsp; RabbitHaru</sub>
 
 </div>
