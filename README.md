@@ -5,7 +5,7 @@
 
 <sub>R A B B I T H A R U</sub>
 
-### Hello, I'm R_H ♡
+### Hello, I'm R_H.
 
 **Software Developer** &nbsp;·&nbsp; Web Development
 
@@ -17,7 +17,7 @@
 
 ---
 
-### ♡ Tech Stack
+### 01. Tech Stack
 
 <div align="center">
 
@@ -27,7 +27,7 @@
 
 <br>
 
-### ♡ GitHub Activity
+### 02. GitHub Activity
 
 <div align="center">
 
@@ -37,30 +37,21 @@
 
 <br>
 
-### ♡ Featured Projects
+### 03. Featured Projects
 
 <div align="center">
-<table>
-<tr>
-<td align="center" width="50%">
 
 <a href="https://github.com/RabbitHaru/projectWeatherly">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabbitHaru&repo=projectWeatherly&theme=github_dark&hide_border=true&title_color=F4A9C5" alt="projectWeatherly" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RabbitHaru&repo=projectWeatherly&theme=github_dark&hide_border=true&title_color=F4A9C5" alt="projectWeatherly" />
 </a>
-
-</td>
-<td align="center" width="50%">
-
 <a href="https://github.com/RabbitHaru/Ex-Ledger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=RabbitHaru&repo=Ex-Ledger&theme=github_dark&hide_border=true&title_color=F4A9C5" alt="Ex-Ledger" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=RabbitHaru&repo=Ex-Ledger&theme=github_dark&hide_border=true&title_color=F4A9C5" alt="Ex-Ledger" />
 </a>
 
-</td>
-</tr>
-</table>
+<br><br>
 
 <a href="https://github.com/RabbitHaru?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-21262D?style=for-the-badge&logo=github&logoColor=white" alt="All repositories" />
+<img src="https://img.shields.io/badge/View_All_Repositories-21262D?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories" />
 </a>
 
 </div>
@@ -69,6 +60,6 @@
 
 <div align="center">
 
-<sub>R_H &nbsp; ♡ &nbsp; RabbitHaru</sub>
+<sub>R_H &nbsp; / &nbsp; RabbitHaru</sub>
 
 </div>
